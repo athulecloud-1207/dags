@@ -1,8 +1,1 @@
-{
-        "https://github.com/athulecloud-1207/latest": {
-            "path": "/appz/home/airflow/dags/dbt/latest",
-            "branch": "main",
-            "email": ["asunil@ecloudcontrrol.com"],
-            "group": "data-eng"
-        }
-}
+
